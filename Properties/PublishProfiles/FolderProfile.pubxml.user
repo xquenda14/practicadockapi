@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\WebSitesProduccion\PracticaDock.Api</_PublishTargetUrl>
+    <History>True|2022-09-20T21:58:34.5012138Z;True|2022-09-08T08:10:14.6146927-05:00;True|2022-09-07T15:56:30.7616020-05:00;True|2022-09-06T18:16:11.8608528-05:00;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="cnDock">
+      <Value>Data Source=HDLOPEZ%3b Initial Catalog=dbDock%3b User Id=usrDock%3b Password=Dock2022%3b</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>
